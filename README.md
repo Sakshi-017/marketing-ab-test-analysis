@@ -19,7 +19,7 @@ Statistical evaluation of an ad campaign on **588,101 users**: did seeing the ad
 - **Minimum detectable effect (80% power, α = 0.05):** 0.255 pp (about 14.3% relative) given these group sizes
 - **Power at the observed effect:** about 100%
 
-![Conversion rates](images/conversion_rates.png)
+![Conversion rates](conversion_rates.png)
 
 ## Dataset
 

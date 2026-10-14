@@ -47,9 +47,9 @@ Columns: `user id`, `test group` (ad / psa), `converted` (True/False), `total ad
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook marketing_ab_test.ipynb
+jupyter notebook Marketing_ab_Test.ipynb
 ```
 
 ## Author
 
-Your Name · [LinkedIn](https://www.linkedin.com/) · your.email@example.com
+Sakshi Sharma · [LinkedIn]((https://www.linkedin.com/in/sakshisharma431/)) · sakshi.afr@gmail.com
